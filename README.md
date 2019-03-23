@@ -20,6 +20,7 @@ This project is inspired by the restrictions of [ohno](https://github.com/BenWie
 - [Performance](#performance)
 - [TODOs](#todos)
 - [Contribute](#contribute)
+- [License](#license)
 
 ## Background
 
@@ -181,3 +182,7 @@ since it doesn't execute any meaningful programs anyway.
 ## Contribute
 
 Feel free to dive in! [Open an issue](https://github.com/BenWiederhake/judecca/issues/new) or submit PRs.
+
+## License
+
+MIT.  Do whatever.
