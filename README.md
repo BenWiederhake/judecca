@@ -1,6 +1,8 @@
 # judecca
 
-> Even worse than Malbolge.  When "[Oh no](https://github.com/BenWiederhake/ohno/)" just doesn't cover it.
+"judecca" is an esoteric "programming language" designed to be cryptographically difficult.
+
+Even worse than Malbolge.  When "[Oh no](https://github.com/BenWiederhake/ohno/)" just doesn't cover it.
 
 "Judecca" is the innermost [circle of Hell](https://en.wikipedia.org/wiki/Inferno_(Dante)#Ninth_Circle_(Treachery)), according to Dante.
 This makes it even more awful than [Malbolge](https://esolangs.org/wiki/Malbolge).
